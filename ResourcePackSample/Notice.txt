@@ -1,0 +1,1 @@
+This pack was created for 1.18.1 and may not work in other versions
